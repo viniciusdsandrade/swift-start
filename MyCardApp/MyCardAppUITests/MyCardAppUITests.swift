@@ -1,13 +1,13 @@
 //
-//  CardAppUITests.swift
-//  CardAppUITests
+//  MyCardAppUITests.swift
+//  MyCardAppUITests
 //
-//  Created by VINICIUS DOS SANTOS ANDRADE on 18/09/24.
+//  Created by VINICIUS DOS SANTOS ANDRADE on 25/09/24.
 //
 
 import XCTest
 
-final class CardAppUITests: XCTestCase {
+final class MyCardAppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

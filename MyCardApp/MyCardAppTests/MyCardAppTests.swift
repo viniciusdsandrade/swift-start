@@ -1,14 +1,13 @@
 //
-//  CardAppTests.swift
-//  CardAppTests
+//  MyCardAppTests.swift
+//  MyCardAppTests
 //
-//  Created by VINICIUS DOS SANTOS ANDRADE on 18/09/24.
+//  Created by VINICIUS DOS SANTOS ANDRADE on 25/09/24.
 //
 
 import XCTest
-@testable import CardApp
 
-final class CardAppTests: XCTestCase {
+final class MyCardAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -28,7 +27,7 @@ final class CardAppTests: XCTestCase {
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
-        self.measure {
+        measure {
             // Put the code you want to measure the time of here.
         }
     }

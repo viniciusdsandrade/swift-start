@@ -1,13 +1,13 @@
 //
-//  CardAppUITestsLaunchTests.swift
-//  CardAppUITests
+//  MyCardAppUITestsLaunchTests.swift
+//  MyCardAppUITests
 //
-//  Created by VINICIUS DOS SANTOS ANDRADE on 18/09/24.
+//  Created by VINICIUS DOS SANTOS ANDRADE on 25/09/24.
 //
 
 import XCTest
 
-final class CardAppUITestsLaunchTests: XCTestCase {
+final class MyCardAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
